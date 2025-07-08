@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lpachta
-- 👀 I’m interested in linux-oriented and game developement
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in linux and frontend dev.
+- 💻 I am familiar with C, C++, Bash, Java, Flutter, Python and GD Script.
+- 🌱 I’m currently learning Flutter 
 - 📧 You can reach me here: lpachta0@gmail.com
 
 <!---
